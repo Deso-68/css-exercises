@@ -1,0 +1,23 @@
+.foo, .bar, #baz, #qux {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.foo {
+    color: rgb(0, 0, 0);
+    background-color: rgb(241, 158, 186);
+}
+
+.bar {
+    font-size: 24px;
+}
+
+#baz {
+    font-size: 36px;
+    color: blue;
+}
+
+#qux {
+    font-size: 24px;
+    font-weight: 700;
+    background-color: lightgreen;
+}
